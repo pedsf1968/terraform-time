@@ -1,3 +1,6 @@
+# Simple time_static resource
+# change the filename with your own path
+
 resource "time_static" "time_update" {
 }
 
